@@ -1,4 +1,4 @@
-Ejercicio 4.2¶
+# Ejercicio 4.2¶
 Crear una clase Persona que tenga nombre, peso (en kg con decimales), altura (en metros con decimales) y su imc.
 
 Crear un constructor primario con todos los atributos, excepto nombre e imc. Este último atributo se calcula en función del peso y la altura. Por tanto no se debe poder modificar, pero si consultar.
